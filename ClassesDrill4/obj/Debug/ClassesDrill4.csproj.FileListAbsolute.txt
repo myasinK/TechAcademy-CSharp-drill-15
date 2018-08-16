@@ -1,0 +1,7 @@
+C:\Users\Yasin\TechAcademy\vs-tour\ClassesDrill4\ClassesDrill4\bin\Debug\ClassesDrill4.exe.config
+C:\Users\Yasin\TechAcademy\vs-tour\ClassesDrill4\ClassesDrill4\bin\Debug\ClassesDrill4.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ClassesDrill4\ClassesDrill4\bin\Debug\ClassesDrill4.pdb
+C:\Users\Yasin\TechAcademy\vs-tour\ClassesDrill4\ClassesDrill4\obj\Debug\ClassesDrill4.csprojAssemblyReference.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ClassesDrill4\ClassesDrill4\obj\Debug\ClassesDrill4.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\TechAcademy\vs-tour\ClassesDrill4\ClassesDrill4\obj\Debug\ClassesDrill4.exe
+C:\Users\Yasin\TechAcademy\vs-tour\ClassesDrill4\ClassesDrill4\obj\Debug\ClassesDrill4.pdb
